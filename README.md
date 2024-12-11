@@ -4,6 +4,7 @@ Most Frequent Payment Date Analysis
 This repository contains Python scripts to analyze student payment data and identify the most frequent payment dates for each student. The implementation is provided in two ways:
 
 Linear Processing: A straightforward approach that processes data sequentially.
+
 Parallel Processing: A more efficient approach that leverages multi-core processing for concurrent execution.
 Features
 
